@@ -1,0 +1,30 @@
+{
+  "name": "lc-bot",
+  "version": "0.1.0-dev",
+  "description": "A configurable Lending Club bot.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryan-rowland/lc-bot.git"
+  },
+  "keywords": [
+    "lendingclub",
+    "lc",
+    "bot",
+    "automated",
+    "investing"
+  ],
+  "author": "Ryan Rowland",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ryan-rowland/lc-bot/issues"
+  },
+  "homepage": "https://github.com/ryan-rowland/lc-bot#readme",
+  "dependencies": {
+    "lc-api": "^0.1.3",
+    "lodash.unionby": "4.2.1"
+  }
+}
